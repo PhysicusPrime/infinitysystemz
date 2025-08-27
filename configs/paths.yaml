@@ -1,0 +1,4 @@
+# Pfaddefinitionen
+build_dir: ./build
+output_dir: ./output
+toolchain: /opt/toolchains/aarch64-linux-musl

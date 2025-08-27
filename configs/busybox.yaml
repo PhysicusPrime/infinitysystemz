@@ -1,0 +1,4 @@
+# Beispielkonfiguration für BusyBox
+version: 1.36.1
+target: arm64
+static: true

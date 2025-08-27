@@ -1,0 +1,5 @@
+# Beispiel RootFS Konfiguration
+arch: arm64
+packages:
+  - busybox
+  - bash
